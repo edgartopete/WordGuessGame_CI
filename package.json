@@ -1,0 +1,24 @@
+{
+  "name": "WordGuessGame_CI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wgci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgartopete/WordGuessGame_CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgartopete/WordGuessGame_CI/issues"
+  },
+  "homepage": "https://github.com/edgartopete/WordGuessGame_CI#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^6.3.1"
+  }
+}
